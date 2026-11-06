@@ -1,6 +1,6 @@
 public class adi{
     public static void main(String[] args) {
-        int a=10,b=20;
+        int a=30,b=400;
         System.out.println(a+b);
     }
 }
