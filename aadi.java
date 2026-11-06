@@ -1,10 +1,5 @@
-public class aadi{
+public class adi {
     public static void main(String[] args) {
-
-        System.out.println("Git Conflict Demo");
-
-        int number = 10;
-
-        System.out.println("Original Number: " + number);
+        System.out.println("Hello from B1 branch");
     }
 }
